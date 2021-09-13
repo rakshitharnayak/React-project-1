@@ -42,7 +42,20 @@ function Friend() {
    },
    {
      name:"Stafny"
+   },
+   {
+     name:"Disha"
+   },
+   {
+     name:"Sushanth"
+   },
+   {
+     name:"Karthik"
+   },
+   {
+     name:"Nikhitha"
    }
+
 
   ]);
   const addToFriends=(add_friend)=>{

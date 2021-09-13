@@ -1,4 +1,5 @@
 
+
 .logout-btn-div{
     background-color: #060b26;
     height:  80px;
@@ -32,7 +33,7 @@
   text-decoration: none;
   outline: none;
   color: #fff;
-  background-color:lightslategrey;
+  background-color:rgb(171, 236, 73);
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;

@@ -70,7 +70,7 @@ function Friend() {
         your_friends.filter((add_friend)=> add_friend!==friendToRemove)
     );
     
-    alert(friendToRemove.name+"is removed from your friend's list");
+    alert(friendToRemove.name+"  is removed from your friend's list");
   };
   const navigateTo=(nextPage)=>{
     setPage(nextPage);

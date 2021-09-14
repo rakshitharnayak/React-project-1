@@ -70,9 +70,9 @@ function Profile(props) {
         <div className="card">
             <h3>ABOUT</h3>
             <div class="description">
-                <h5>Web developer</h5> 
-                <h5>Currently working in Y Media Labs</h5> 
-                <h5>Hobbies: Travelling, Painting</h5> 
+                <h5>Student</h5> 
+                <h5>Currently persuing ECE at NMAMIT Nitte</h5> 
+                <h5>Hobbies: Sketching, Travelling</h5> 
                 <h5>Bangalore, India</h5>
             </div>
         </div>
